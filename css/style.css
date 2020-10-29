@@ -1,5 +1,12 @@
+html, body {
+  height : 100%
+}
+
 body{
   background-color: #4736c6;
+  background-image:url(../img/patten.jpg);
+  background-repeat : no-repeat;
+  background-position :center bottom;
 }
 
 .dindin{
