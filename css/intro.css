@@ -1,0 +1,15 @@
+
+body{
+  background-color: #fff;
+}
+.in1{
+  position: absolute;
+  left: 900px;
+  top: 430px;
+}
+
+.in2{
+  position: absolute;
+    left: 903px;
+  top: 530px;
+}

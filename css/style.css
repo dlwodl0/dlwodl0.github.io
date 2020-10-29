@@ -1,0 +1,62 @@
+body{
+  background-color: #4736c6;
+}
+
+.dindin{
+      position: fixed;
+      bottom: 00px;
+}
+.dondon{
+position: absolute;
+left: 500px;
+top: 360px;
+whith:0%;
+}
+
+.b1{
+  position: absolute;
+  right: 20px;
+  top: 35px;
+}
+
+.b2{
+  position: absolute;
+  right: 20px;
+  top: 160px;
+}
+
+.b3{
+  position: absolute;
+  right: 20px;
+  top: 227px;
+}
+
+.b4{
+  position: absolute;
+  right: 20px;
+  top: 295px;
+}
+
+.ptm{
+  position: absolute;
+  right: 45px;
+  top: 870px;
+}
+
+.mus{
+  position: absolute;
+  left: 35px;
+  top: 875px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.
